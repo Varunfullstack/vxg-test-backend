@@ -13,7 +13,7 @@ Steps to run this project:
   - Click on generate new private key
   - Download the file and replace it with firebase.json
 
-7. Run `npm start` command
+5. Run `npm start` command
 
 # Folder Structure
 
@@ -42,10 +42,7 @@ Steps to run this project:
 
 - express (typescript)
 - typeorm (ORM for mysql)
-- dotenv (for environment variables)
 - cors (for cross-origin requests)
 - jsonwebtokens (for authentication)
 - firebase-admin (for firebase authentication)
 - mysql2 (mysql driver)
-- concurrently (for running multiple scripts)
-- nodemon (for auto-restart server)
